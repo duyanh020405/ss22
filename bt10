@@ -1,0 +1,12 @@
+falsy gồm có tất cả 5 trường hợp
+1 . string 
+2 . 3 gia tri bang0 ( 0 , -0 , BigInt- ít sử dụng)
+3.null
+4.underfinded
+5.NaN
+6.document.all 
+truthy là những giá trị khi chuyển đôit thành bollen thì giá trị đó sẽ nhânj giá trị true
+ngược lại vơi falsy
+vd
+'null' -> true;
+0-> false .valueOf...
